@@ -3,12 +3,12 @@
 🔭 I’m currently a student at [Hack Your Future](https://www.hackyourfuture.dk)
 
 ## My Skills
-💻 HTML , CSS, Bootstrap
-⚙ Javascript
-📡 Git
-🔬 MySQL
-📟 NodeJS-Express, KnexJS
-👨‍💻 React
+- 💻 HTML , CSS, Bootstrap
+- ⚙ Javascript
+- 📡 Git
+- 🔬 MySQL
+- 📟 NodeJS-Express, KnexJS
+- 👨‍💻 React
 
 
 
