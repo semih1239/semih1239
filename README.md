@@ -7,7 +7,7 @@
 - ⚙ Javascript
 - 📡 Git
 - 🔬 MySQL
-- 📟 NodeJS-Express, KnexJS
+- 📟 NodeJS, ExpressJS, KnexJS
 - 👨‍💻 React
 
 
