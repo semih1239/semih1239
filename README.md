@@ -14,6 +14,7 @@
 - 👨‍💻 React
 
 ## My Details
+- 💻 I’m currently doing an internship on [Our Only Home](https://www.ouronlyhome.eu/en/) as a Full Stack Web Developer
 - 🔭 I finished Full stack web development education at [Hack Your Future](https://www.hackyourfuture.dk)
 - 🌱 I’m currently learning TypeScript
 - 😄 Pronouns: He/Him
