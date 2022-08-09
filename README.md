@@ -6,7 +6,7 @@
 ## My Skills
 - 💻 HTML , CSS, Bootstrap
 - ⚙ Javascript
-- 🦾 C#, .NET
+- 🦾 C#, ASP. NET Core MVC
 - 📡 Git, GitHub
 - 🔬 MySQL
 - 📟 NodeJS, ExpressJS
@@ -15,7 +15,7 @@
 - 👨‍💻 React, NextJS
 
 ## My Details
-- 💻 I’m currently doing an internship at [Our Only Home](https://www.ouronlyhome.eu/en/) as a Full Stack Web Developer
+- 💻 I’m currently working at [Our Only Home](https://www.ouronlyhome.eu/en/) as a Full Stack Web Developer
 - 🔭 I finished a Full stack Development education at [Hack Your Future](https://www.hackyourfuture.dk)
 - 🌱 I’m currently learning TypeScript
 - 😄 Pronouns: He/Him
