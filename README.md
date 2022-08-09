@@ -6,7 +6,7 @@
 ## My Skills
 - 💻 HTML , CSS, Bootstrap
 - ⚙ Javascript
-- 🦾 C#, ASP. NET Core MVC
+- 🦾 C#, ASP.NET Core MVC
 - 📡 Git, GitHub
 - 🔬 MySQL
 - 📟 NodeJS, ExpressJS
