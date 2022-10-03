@@ -13,7 +13,7 @@
 - 📟 KnexJs, Swagger
 - 📙 Storybook
 - 👨‍💻 React, NextJS
-- ☁  Google Cloud, Azure Static Web Apps
+- ☁  Google Cloud, Azure Static Web Apps, Amazon Web Service
 
 ## My Details
 - 💻 I’m currently working at [Our Only Home](https://www.ouronlyhome.eu/en/) as a Full Stack Web Developer
