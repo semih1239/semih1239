@@ -5,7 +5,7 @@
 
 ## My Skills
 - 💻 HTML , CSS, Bootstrap
-- ⚙ Javascript
+- ⚙ Javascript, Typescript
 - 🦾 C#, ASP.NET Core MVC
 - 📡 Git, GitHub
 - 🔬 MySQL
@@ -18,7 +18,6 @@
 ## My Details
 - 💻 I’m currently working at [Our Only Home](https://www.ouronlyhome.eu/en/) as a Full Stack Web Developer
 - 🔭 I finished a Full stack Development education at [Hack Your Future](https://www.hackyourfuture.dk)
-- 🌱 I’m currently learning TypeScript
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: semihayyildiz23@outlook.com
 
