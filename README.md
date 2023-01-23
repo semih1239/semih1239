@@ -16,7 +16,7 @@
 - ☁  Google Cloud, Azure Static Web Apps, Amazon Web Service
 
 ## My Details
-- 💻 I’m currently working at [Our Only Home](https://www.ouronlyhome.eu/en/) as a Full Stack Web Developer
+- 💻 I’m currently working at [Visma e-conomic](https://www.e-conomic.dk) as a Software Developer
 - 🔭 I finished a Full stack Development education at [Hack Your Future](https://www.hackyourfuture.dk)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: semihayyildiz23@outlook.com
